@@ -8,4 +8,4 @@ Hi, how are you?
 
 I'm good, thank you!
 
-make another change with delete branch option feature1 modified this file.
+make another change with delete branch option update by feature2
